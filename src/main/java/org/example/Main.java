@@ -8,6 +8,6 @@ public class Main {
         System.out.printf("Main Branch Commit");
         System.out.printf("First Feature Branch Commit");
 
-        }
+
     }
 }
