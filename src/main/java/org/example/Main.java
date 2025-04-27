@@ -7,6 +7,6 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Main Branch Commit");
         System.out.printf("Branch for Develipment");
-
+        System.out.printf("Automation changes");
         }
     }
