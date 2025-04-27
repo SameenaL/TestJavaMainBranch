@@ -7,7 +7,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Main Branch Commit");
         System.out.printf("First Feature Branch Commit");
-        System.out.printf("First Feature Branch- extension Commit");
+        System.out.printf("First Feature Branch- extension retry Commit");
 
 
     }
